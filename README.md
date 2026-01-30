@@ -17,13 +17,21 @@ The DVMD Emergency Management System is a comprehensive web application built fo
 
 ### Directory Structure
 ├── css/ # Stylesheets
+
 ├── database/ # Database schemas and scripts
+
 ├── dvmd/ # Core application modules
+
 ├── images/ # System images and assets
+
 ├── includes/ # Shared PHP includes and libraries
+
 ├── js/ # JavaScript functionality
+
 ├── management/ # Administrative modules
+
 ├── vendor/ # Third-party dependencies
+
 └── [PHP files] # Individual application pages
 
 
